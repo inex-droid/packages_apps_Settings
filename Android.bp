@@ -100,6 +100,7 @@ android_library {
         "faceunlock_framework",
         "SettingsGoogle-lib",
         "bouncy",
+        "androidx.dynamicanimation",
     ],
 
     libs: [
@@ -159,5 +160,11 @@ filegroup {
 android_library_import {
     name: "bouncy",
     aars: ["libs/bouncy-release.aar"],
+    sdk_version: "current",
+}
+
+android_library_import {
+    name: "androidx.dynamicanimation",
+    aars: ["libs/dynamicanimation-1.1.0-alpha03.aar"],
     sdk_version: "current",
 }
