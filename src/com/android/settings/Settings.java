@@ -452,4 +452,8 @@ public class Settings extends SettingsActivity {
     // LiveDisplay
     public static class LiveDisplaySettingsActivity extends SettingsActivity { /* empty */ }
 
+    /**
+     * Activity for InexDroid Tube
+     */
+    public static class StartLabActivity extends SettingsActivity {}
 }

@@ -18,4 +18,8 @@
     <!-- InexDroid Maintainer -->
     <string name="inexdroid_maintainer">Maintainer</string>
 
+    <!-- InexDroid Tube -->
+    <string name="inexdroid_lab_title">InexDroid Tube</string>
+    <string name="inexdroid_lab_footer">Warning: These features are experimental and may have risks, Use them with caution.</string>
+    <string name="inexdroid_lab_summary">Experimental features</string>
 </resources>
