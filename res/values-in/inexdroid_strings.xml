@@ -70,4 +70,6 @@
     <string name="app_volume_title">Kontrol volume per aplikasi</string>
     <string name="app_volume_summary">Izinkan untuk mengatur tingkat volume yang berbeda untuk setiap aplikasi</string>
     <string name="power_menu_restart_systemui_title">Mulai ulang SystemUI</string>
+    <string name="pie_animation_style_title">Gaya animasi Android P</string>
+    <string name="pie_animation_style_summary">Aktifkan Android P \"Default\" animasi</string>
 </resources>
