@@ -69,4 +69,5 @@
     <string name="app_volume">Volume aplikasi</string>
     <string name="app_volume_title">Kontrol volume per aplikasi</string>
     <string name="app_volume_summary">Izinkan untuk mengatur tingkat volume yang berbeda untuk setiap aplikasi</string>
+    <string name="power_menu_restart_systemui_title">Mulai ulang SystemUI</string>
 </resources>
