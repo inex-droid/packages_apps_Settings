@@ -27,15 +27,6 @@
         android:layout="@layout/inexdroid_logo"
         android:selectable="false"/>
 
-    <!-- InexDroid version -->
-    <Preference
-        android:key="inexdroid_release_version"
-        android:title="@string/inexdroid_release_version"
-        android:summary="@string/summary_placeholder"
-        settings:enableCopying="true"
-        settings:searchable="false"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.InexDroidVersionDetailPreferenceController"/>
-
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
@@ -44,6 +35,15 @@
         settings:enableCopying="true"
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
+
+    <!-- InexDroid version -->
+    <Preference
+        android:key="inexdroid_release_version"
+        android:title="@string/inexdroid_release_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:searchable="false"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.InexDroidVersionDetailPreferenceController"/>
 
     <!-- InexDroid Maintainer  -->
     <Preference
