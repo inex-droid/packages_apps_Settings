@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2023 InexDroid
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="inexdroid_release_version">Versi InexDroid</string>
+    <string name="inexdroid_maintainer">Pengelola</string>
+    <string name="inexdroid_lab_footer">Peringatan: Fitur-fitur ini bersifat eksperimental dan mungkin memiliki risiko. Gunakan dengan hati-hati.</string>
+    <string name="inexdroid_lab_summary">minimalis</string>
+    <string name="statusbar_colored_icons_title">Ikon berwarna</string>
+    <string name="statusbar_colored_icons_summary">Gunakan ikon aplikasi yang tepat untuk ikon notifikasi di bilah status</string>
+    <string name="hidden_apps_title">Aplikasi tersembunyi</string>
+    <string name="hidden_apps_summary">Aplikasi yang harus disembunyikan dari peluncur. Membutuhkan peluncur dimulai ulang agar perubahan dapat diterapkan</string>
+    <string name="search">Pencarian</string>
+    <string name="search_apps">Pencarian aplikasi</string>
+    <string name="display_cutout_force_fullscreen_title">Aplikasi layar penuh</string>
+    <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan ruang takik</string>
+    <string name="ignore_window_secure_title">Abaikan tanda jendela aman</string>
+    <string name="ignore_window_secure_summary">Hapus batas tangkapan layar dan rekaman layar untuk semua aplikasi. Hal ini mungkin nyaman dalam beberapa kasus, tetapi dapat menyebabkan kebocoran privasi.</string>
+    <string name="battery_temp">Suhu baterai</string>
+    <string name="doze_on_charge_title">Selalu menyala saat mengisi daya</string>
+    <string name="doze_on_charge_summary">Tampilkan layar istirahat sepanjang waktu saat mengisi daya</string>
+    <string name="show_wifi_standard_icon_title">Tampilkan ikon jenis Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Tampilkan jenis Wi-Fi di indikator sinyal Wi-Fi</string>
+    <string name="smart_5g_title">5G yang cerdas</string>
+    <string name="smart_5g_summary">Beralih secara otomatis antara 5G dan 4G untuk mengurangi konsumsi baterai</string>
+    <string name="reticker_summary">Ganti pemberitahuan pendahuluan dengan versi ticker yang didesain ulang lebih ramping dan tidak terlalu invasif</string>
+    <string name="reticker_colored_title">Gunakan latar belakang berwarna aplikasi</string>
+    <string name="reticker_colored_summary">Ganti warna latar belakang reTicker menggunakan warna utama aplikasi notifikasi</string>
+    <string name="notification_vibration_pattern_title">Pola getaran notifikasi</string>
+    <string name="ring_vibration_pattern_title">Pola getaran</string>
+    <string name="pattern_default">Bawaan perangkat</string>
+    <string name="power_menu_hide_on_secure_title">Sembunyikan menu daya di layar kunci</string>
+    <string name="power_menu_hide_on_secure_summary">Sembunyikan menu daya saat berada di layar kunci yang aman</string>
+    <string name="gesture_navbar_length_title">Panjang pil</string>
+    <string name="hide_label">Tersembunyi</string>
+    <string name="long_label">Panjang</string>
+    <string name="gesture_navbar_radius_title">Radius pil</string>
+    <string name="thin_label">Tipis</string>
+    <string name="thick_label">Tebal</string>
+    <string name="doze_gesture_ambient_title">Tampilkan Ambien</string>
+    <string name="doze_gesture_ambient_summary">Tampilkan Tampilan Sekitar alih-alih mengaktifkan layar sepenuhnya</string>
+    <string name="doze_enabled_title">Ambient display</string>
+    <string name="doze_enabled_summary">Apakah akan mengaktifkan fungsionalitas paket istirahatkan</string>
+    <string name="navbar_category">Bilah navigasi</string>
+    <string name="game_space_title">Ruang Permainan</string>
+    <string name="game_space_summary">Tingkatkan pengalaman bermain game Anda</string>
+    <string name="gesture_navbar_category_title">Bilah navigasi</string>
+    <string name="immersive_navigation_title">Navigasi yang Mendalam</string>
+    <string name="immersive_navigation_summary">Sembunyikan pil isyarat dan bantalan bilah navigasi.</string>
+    <string name="show_fourg_icon_title">Tampilkan 4G, bukan LTE</string>
+    <string name="show_fourg_icon_summary">Ganti indikator LTE dengan 4G</string>
+    <string name="icons_category">Ikon</string>
+    <string name="roaming_indicator_icon_title">Indikator jelajah</string>
+    <string name="roaming_indicator_icon_summary">Tampilkan indikator roaming di ikon sinyal saat dalam mode roaming</string>
+    <string name="data_disabled_icon_title">Tampilkan ikon data dinonaktifkan</string>
+    <string name="data_disabled_icon_summary">Tampilkan tanda silang di sebelah bilah sinyal ketika data dinonaktifkan</string>
+    <string name="double_tap_title">Ketuk dua kali</string>
+    <string name="doze_double_tap_title">Ketuk dua kali untuk memeriksa ponsel</string>
+    <string name="doze_double_tap_summary">Notifikasi pulsa dengan ketuk dua kali</string>
+    <string name="app_volume">Volume aplikasi</string>
+    <string name="app_volume_title">Kontrol volume per aplikasi</string>
+    <string name="app_volume_summary">Izinkan untuk mengatur tingkat volume yang berbeda untuk setiap aplikasi</string>
+</resources>

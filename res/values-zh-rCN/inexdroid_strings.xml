@@ -16,8 +16,8 @@
     <string name="inexdroid_release_version">InexDroid 版本</string>
     <!-- InexDroid Maintainer -->
     <string name="inexdroid_maintainer">维护者</string>
-    <!-- InexDroid Tube -->
-    <string name="inexdroid_lab_title">InexDroid管</string>
+    <!-- Inexistence -->
+    <string name="inexdroid_lab_title">存在</string>
     <string name="inexdroid_lab_footer">警告：这些功能是实验性的，可能有风险。请谨慎使用。</string>
     <string name="inexdroid_lab_summary">实验性功能</string>
     <!-- Per-app volume control -->

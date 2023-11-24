@@ -16,8 +16,8 @@
     <string name="inexdroid_release_version">Bienvenido a InexDroid</string>
     <!-- InexDroid Maintainer -->
     <string name="inexdroid_maintainer">Mantenedor</string>
-    <!-- InexDroid Tube -->
-    <string name="inexdroid_lab_title">Tubo InexDroid</string>
+    <!-- Inexistence -->
+    <string name="inexdroid_lab_title">En existencia</string>
     <string name="inexdroid_lab_footer">Advertencia: Estas características son experimentales y pueden tener riesgos. Utilícelas con precaución.</string>
     <string name="inexdroid_lab_summary">Funciones experimentales</string>
     <!-- Per-app volume control -->
