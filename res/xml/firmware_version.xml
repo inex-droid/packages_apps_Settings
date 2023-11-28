@@ -23,9 +23,9 @@
 
     <!-- InexDroid logo -->
     <com.android.settingslib.widget.LayoutPreference
-        android:key="inexdroid"
         android:layout="@layout/inexdroid_logo"
-        android:selectable="false"/>
+        android:key="inexdroid_logo"
+        android:selectable="false" />
 
     <!-- Android version -->
     <Preference
