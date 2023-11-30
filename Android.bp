@@ -59,8 +59,6 @@ android_library {
         "TouchGestures/res"
     ],
 
-    aaptflags: ["--extra-packages com.factor.bouncy",],
-
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
         "androidx.slice_slice-builders",
@@ -99,8 +97,6 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "faceunlock_framework",
         "SettingsGoogle-lib",
-        "bouncy",
-        "androidx.dynamicanimation",
     ],
 
     libs: [
@@ -155,16 +151,4 @@ filegroup {
 filegroup {
     name: "Settings_manifest",
     srcs: ["AndroidManifest.xml"],
-}
-
-android_library_import {
-    name: "bouncy",
-    aars: ["libs/bouncy-release.aar"],
-    sdk_version: "current",
-}
-
-android_library_import {
-    name: "androidx.dynamicanimation",
-    aars: ["libs/dynamicanimation-1.1.0-alpha03.aar"],
-    sdk_version: "current",
 }
